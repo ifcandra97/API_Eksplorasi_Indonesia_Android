@@ -3,7 +3,7 @@ require('../connection.php');
 
 $response = array();
 
-// Query untuk mengambil data kuliner dari tabel
+// Query untuk mengambil data user dari tabel
 $command = "SELECT * FROM user";
 
 // Mengeksekusi perintah select
